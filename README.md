@@ -7,6 +7,8 @@
     파이썬 기본문법을 활용한 다양한 프로그램(은행 뱅킹, 단어사전, 단어게임 등) 
 
 * Practice
+    easygui, turtle 그래픽 라이브러리, 파일입출력 실습. 
+    bakery.py의 경우 팀으로 작업. 
 
-    easygui, turtle 그래픽 라이브러리, 파일입출력 실습. bakery.py의 경우 팀으로 작업. 
-
+* WebPrograming
+Django와 파이썬 실습 
